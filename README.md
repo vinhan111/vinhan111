@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinhan111
 - 👀 I’m interested in Chess, Baduk, Puzzle games, Mindsport, Logic Solving , Computer Science, Art drawing, 2D/3D digital drawing. and ofcourse Game!
 
-- 🌱 I’m currently learning C#, Unity.
+- 🌱 I’m currently learning python,C#, Unity/Godot4.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my mail adress is: darkmager@gmail.com
 
